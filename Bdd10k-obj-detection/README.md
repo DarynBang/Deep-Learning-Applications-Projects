@@ -1,4 +1,4 @@
-# Car Damage / Object Detection Pipeline (BDD100K) – Faster R-CNN Baseline + Experiments
+# Object Detection Pipeline (BDD100K) For Autonomous Driving setting – Faster R-CNN Baseline + Experiments
 
 ## Overview
 This project implements an end-to-end object detection pipeline based on Faster R-CNN (ResNet50-FPN) trained on the BDD100K dataset. The primary goal is to build a strong, research-oriented baseline while systematically experimenting with training stability, class imbalance handling, sampling strategies, and evaluation metrics.
