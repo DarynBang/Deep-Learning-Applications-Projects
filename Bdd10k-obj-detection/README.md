@@ -13,7 +13,7 @@ All code is contained within a single Kaggle notebook for reproducibility and ea
 - Improve training stability via warmup scheduling
 - Reduce redundant bounding boxes
 - Introduce proper evaluation metrics (mAP instead of only validation loss)
-- Create a modular pipeline suitable for future extensions (e.g., damage classification after detection)
+- Create a modular pipeline suitable for future extensions (e.g., damage classification for the vehicles?)
 
 ---
 
