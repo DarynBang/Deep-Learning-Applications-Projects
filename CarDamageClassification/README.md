@@ -89,8 +89,8 @@ Tracked recall separately for:
 - Moderate Recall
 - Severe Recall
 
-Key Finding:
-> The model initially over-predicted Severe and struggled to distinguish Moderate vs Severe.
+**Key Finding:**
+> The model initially over-predicted Severe and struggled to distinguish Moderate vs Severe, which makes sense considering the line between an object being moderately damaged and severely damaged is quite blurry.
 
 This level of diagnostic analysis demonstrates **professional ML evaluation practice**.
 
