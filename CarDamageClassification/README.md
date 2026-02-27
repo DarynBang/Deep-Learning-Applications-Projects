@@ -75,7 +75,7 @@ This better reflects real-world model usefulness.
 
 ### Distance-Weighted Cross Entropy Loss (Custom Loss)
 Implemented a hybrid loss:
-$ Total Loss = CrossEntropy + λ × Ordinal Distance Penalty $
+$$ Total Loss = CrossEntropy + λ × Ordinal Distance Penalty $$
 
 Benefits:
 - Penalizes large ordinal mistakes more heavily
